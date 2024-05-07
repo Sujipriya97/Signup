@@ -1,0 +1,18 @@
+body{
+    color: white;
+    background-image: url('https://img.freepik.com/free-photo/view-arrangement-with-keyboard-notebooks_23-2148847749.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1715040000&semt=ais');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.border{
+  max-width: 800px;
+  background-color: white;
+  color: black;
+  margin-left: 45%;
+  margin-top: 5%;
+  border-radius: 50px 0px 0px 50px;
+}
+.SForm{
+  text-align: center;
+  margin: 30px;
+}
